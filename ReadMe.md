@@ -87,7 +87,7 @@ C:/xampp/htdocs/student-club-event-system
 
 If using Git:
 ```bash
-git clone <<>repo link>>
+git clone [https://github.com/Yubaraj01/student-club-event-system.git]
 ```
 
 ### 2. Start services
